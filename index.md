@@ -28,7 +28,7 @@ $$
 \text{Shakespeare}\ (E, x) \rightarrow
 \text{Marx + Wilde}\ E(t\mid x) + \epsilon \rightarrow
 \text{Dostoevsky}\ \frac{dE_x}{dt} \rightarrow
-\text{Nietzsche}\ \frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2t}{dt^2}} \rightarrow
+\text{Nietzsche}\ \frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}} \rightarrow
 \text{Joyce}\ \int E_x dt + \epsilon_x t + C_x
 $$
 
