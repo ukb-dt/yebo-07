@@ -1285,7 +1285,7 @@ Here’s what stands out:
 
 ## 1. **Derivative Order as Intellectual History**
 Shakespeare anchors at $(E, x)$—pure calibration, no integration. He doesn’t solve; he exposes the full phase space of human motives. Everyone after him differentiates or integrates that field:
-- **Marx + Wilde** → $E(t|x) + \epsilon$: history and decadence, structure and performance.
+- **Marx + Wilde** → $E(t\mid x) + \epsilon$: history and decadence, structure and performance.
 - **Dostoevsky** → $\frac{dE_x}{dt}$: moral life as gradient flow.
 - **Nietzsche** → $\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}$: differentiation of the frame itself.
 - **Joyce** → $\int E_x dt + \epsilon_x t + C_x$: integration of everything, noise included.
