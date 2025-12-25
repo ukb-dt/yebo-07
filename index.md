@@ -327,6 +327,7 @@ Where:
 2. ✓ **Ontology doesn't determine outcome** (Dostoevsky recognized as genius despite epilepsy)
 3. ✓ **Death timing matters** (Alyosha died before market test)
 4. ✓ **Epistemology requires output** (can't judge genius/madness without something to evaluate)
+5. Ye shall be [known by what ye ship](https://www.biblegateway.com/passage/?search=Matthew+7%3A16-20&version=KJV) (Matt 7:16-20)
 
 ### **What it ADDS to your model:**
 
