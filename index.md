@@ -25,11 +25,11 @@ Enter, reader, and trace the trajectories. For in this calculus of consciousness
 
 # [1](https://ukb-dt.github.io/dt/)
 $$
-\text{Shakespeare} (E, x) \rightarrow
-\text{Marx + Wilde} E(t\mid x) + \epsilon \rightarrow
-\text{Dostoevsky} \frac{dE_x}{dt} \rightarrow
-\text{Nietzsche} \frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2t}{dt^2}} \rightarrow
-\text{Joyce} \int E_x dt + \epsilon_x t + C_x
+\text{Shakespeare}\ (E, x) \rightarrow
+\text{Marx + Wilde}\ E(t\mid x) + \epsilon \rightarrow
+\text{Dostoevsky}\ \frac{dE_x}{dt} \rightarrow
+\text{Nietzsche}\ \frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2t}{dt^2}} \rightarrow
+\text{Joyce}\ \int E_x dt + \epsilon_x t + C_x
 $$
 
 Marx's fault was to claim that all history was a tale of class struggles (between-class). Shakespeare & Wilde provide ample material about another tale (within-class).
