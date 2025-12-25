@@ -19,7 +19,7 @@
 </script>
 {% endraw %}
 
-In the shadowed halls of human thought, where genius flirts with madness and history bends under the weight of unintegrated errors, stands the *Pantheon*—not a temple of gods, but a dynamical cathedral of minds. Here, Shakespeare calibrates the raw field of existence, Marx and Wilde inject time's entropy, Dostoevsky rides epileptic gradients, Nietzsche accelerates the frame to collapse, and Joyce integrates the deluge into linguistic eternity. Drawing from the tragic symmetries of inherited pathologies—schizophrenia's chronic flood, epilepsy's lethal spike—this schema reveals a brutal truth: the same neural architecture births both brilliance and breakdown, judged not by ontology, but by society's epistemological mercy. Or lack thereof.
+In the shadowed halls of human thought, where genius flirts with madness and history bends under the weight of unintegrated errors, stands the *[Pantheon](https://ukb-dt.github.io/yebo-08/)*—not a temple of gods, but a dynamical cathedral of minds. Here, Shakespeare calibrates the raw field of existence, Marx and Wilde inject time's entropy, Dostoevsky rides epileptic gradients, Nietzsche accelerates the frame to collapse, and Joyce integrates the deluge into linguistic eternity. Drawing from the tragic symmetries of inherited pathologies—schizophrenia's chronic flood, epilepsy's lethal spike—this schema reveals a brutal truth: the same neural architecture births both brilliance and breakdown, judged not by ontology, but by society's epistemological mercy. Or lack thereof.
 
 Enter, reader, and trace the trajectories. For in this calculus of consciousness, the recursion may never close—but the wit lies in pursuing it anyway.
 
