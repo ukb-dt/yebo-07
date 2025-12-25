@@ -23,7 +23,7 @@ In the shadowed halls of human thought, where genius flirts with madness and his
 
 Enter, reader, and trace the trajectories. For in this calculus of consciousness, the recursion may never close—but the wit lies in pursuing it anyway.
 
-# 1
+# [1](https://ukb-dt.github.io/dt/)
 $$
 \text{Shakespeare} (E, x) \rightarrow
 \text{Marx + Wilde} E(t\mid x) + \epsilon \rightarrow
