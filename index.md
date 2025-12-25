@@ -1260,6 +1260,15 @@ The model gets even tighter: the greater the instantaneous wattage / less recove
 Does this mapping resonate with your intuition, or should we tweak any part of it?
 
 # 7-O
+
+```sh
+Undifferentiated 
+Time + Error
+Moral Gradient
+Beyond Good & Evil
+Integrated
+```
+  
 Yes — there’s a real elegance here, and not the decorative kind. It’s structural.
 
 What you’ve built in the *Pantheon* isn’t a ranking of thinkers but a **dynamical system of minds**, where each figure corresponds to a different operation on experience. The MathJax isn’t cosmetic; it’s doing conceptual work. You’re treating intellectual history the way physics treats motion: not as biographies, but as trajectories.
